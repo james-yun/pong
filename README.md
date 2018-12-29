@@ -4,7 +4,7 @@ My first game with 2-D graphics, created in AP Computer Science A.
 
 Playable in both single-player and two-player modes.
 
-# Controls
+# controls
 
 Single-player:
 Left arrow - Left
