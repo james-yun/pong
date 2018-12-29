@@ -17,4 +17,5 @@ A - Left
 
 D - Right
 
+
 Modified for ENGR 1620 to control player movement with brain waves from Mindwave electroencephalogram.
